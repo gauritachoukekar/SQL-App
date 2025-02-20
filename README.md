@@ -14,9 +14,8 @@ The database is composed of several key entities and tables:
 •	ShoppingCart: Stores products added to the shopping cart by users.
 •	Delivery: Tracks the delivery of orders.
 •	Address: Stores user address details for deliveries.
-
- 3.Use Case Analysis
- Order and User Management
+4. Use Case Analysis
+Order and User Management
 •	Queries like "Retrieve All Orders With Buyer Details" and "Show Order History for a Specific User" are essential for tracking customer orders and understanding their purchasing behavior. This data helps in improving customer engagement and marketing strategies.
 Product and Store Management
 •	Queries such as "List Products Available in a Specific Store" and "Find Most Popular Product Based on Orders" help store owners manage their inventories and identify products that are performing well. This allows businesses to optimize stock levels and marketing campaigns.
@@ -26,5 +25,6 @@ User Insights and Preferences
 •	By counting "Total Number of Buyers and Sellers" and showing products in the "Shopping Cart for a User," the business can gain insights into customer behavior, tailor personalized offers, and enhance user experience.
 Logistics and Delivery Tracking
 •	Queries related to delivery addresses and shipping, such as "Show Delivery Addresses for Orders," ensure that businesses can monitor the status of deliveries and improve logistics efficiency.
- 4. Conclusion
+5. Conclusion
 The Online Shopping Application Database enables effective management of e-commerce activities, including user interactions, order processing, inventory management, and payment tracking. The SQL queries discussed in this report provide valuable insights into business operations and customer behavior, supporting informed decision-making and improved operational efficiency. This project showcases how data can be harnessed to enhance customer experience, streamline processes, and drive sales performance in an online shopping environment.
+
