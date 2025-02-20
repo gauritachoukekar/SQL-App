@@ -14,6 +14,7 @@ The database is composed of several key entities and tables:
 •	ShoppingCart: Stores products added to the shopping cart by users.
 •	Delivery: Tracks the delivery of orders.
 •	Address: Stores user address details for deliveries.
+
 3.Use Case Analysis
 Order and User Management
 •	Queries like "Retrieve All Orders With Buyer Details" and "Show Order History for a Specific User" are essential for tracking customer orders and understanding their purchasing behavior. This data helps in improving customer engagement and marketing strategies.
